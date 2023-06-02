@@ -2,8 +2,8 @@
 import network
 
 # Set up the WiFi connection
-wifi_ssid = "LINTERA#2"
-wifi_password = "L1I2N3T4E5R6A7"
+wifi_ssid = "..."
+wifi_password = "..."
 #wifi_ssid = "YII2"
 #wifi_password = "2425 CC-7"
 
